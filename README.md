@@ -1,5 +1,4 @@
 # Macropod-v3
-A macropad based off sayo device design
 
 I made a hackboard based on the pretty well known Sayo Device.
 
