@@ -16,9 +16,9 @@ My Hackboard has a rotary encoder for volume control, 3 keys for macros/inputs. 
 ## BOM
 | Name | Purpose | Quantity | Total Cost (USD) | Link | Distributor |
 |------|--------|----------|------------------|------|------------|
-| Rotary Encoder | Dial input | 1 | 1.03 | [Buy](https://robu.in/product/rotary-encoder-module/) | Robocraze |
-| RP2040 | Microcontroller | 1 | 1.39 | [Buy](https://robu.in/product/raspberry-pi-rp2040-microcontroller/) | Robocraze |
-| Hot-Swappable Mechanical Keyboard Switches | Keys | 1 | — | [Buy](https://www.amazon.in/dp/B0CKH9WJ9Q) | Amazon |
-| Keycaps (Round Domes) | Keys | 1 | — | [Buy](https://www.amazon.in/dp/B0CJG7PZ79) | Amazon |
-| PCB | Circuit board | 1 | 3.94 | [Order](https://jlcpcb.com/) | JLCPCB |
+| Rotary Encoder | Dial input | 1 |0 | [Buy](https://robu.in/product/rotary-encoder-module/) | Robocraze |
+| RP2040 | Microcontroller | 1 | 6.38 | [Buy](https://robu.in/product/raspberry-pi-rp2040-microcontroller/) | Robocraze |
+| Hot-Swappable Mechanical Keyboard Switches | Keys | 1 | 9.18 | [Buy](https://www.amazon.in/dp/B0CKH9WJ9Q) | Amazon |
+| 3d printed comps | Keys | 1 | 4| [Buy](https://www.amazon.in/dp/B0CJG7PZ79) | Amazon |
+| PCB | Circuit board | 1 | 9.94| [Order](https://jlcpcb.com/) | JLCPCB |
 | USB Type-C to Type-C Cable (Zebronics) | Power & Data | 1 | 2.11 | [Buy](https://www.amazon.in/dp/B0FJ2LY2JN) | Amazon |
