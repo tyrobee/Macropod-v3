@@ -14,10 +14,13 @@ My Hackboard has a rotary encoder for volume control, 3 keys for macros/inputs. 
 ![C1](./PCB/PHOTOS/c1.png)
 
 ## BOM
+## Bill of Materials (BOM)
+
 | Name | Purpose | Quantity | Total Cost (USD) | Link | Distributor |
 |------|--------|----------|------------------|------|------------|
-| Rotary Encoder | Dial input | 1 | 1.03 | [Link] | Robocraze |
-| RP2040 | Microcontroller | 1 | 1.39 | [Link] | — |
-| Hot-Swappable Mechanical Keyboard Switches | Keys | 1 | — | [Link] | — |
-| Keycaps (Round Domes) | Keys | 1 | — | [Link] | — |
+| Rotary Encoder | Dial input | 1 | 1.03 | [Product Link] | Robocraze |
+| RP2040 | Microcontroller | 1 | 1.39 | [Product Link] | — |
+| Hot-Swappable Mechanical Keyboard Switches | Keys | 1 | — | [Product Link] | — |
+| Keycaps (Round Domes) | Keys | 1 | — | [Product Link] | — |
 | PCB | Circuit board | 1 | 3.94 | — | JLCPCB |
+| USB Type-C to Type-C Cable (Zebronics) | Power & Data | 1 | 2.11 | [Amazon Link]| Amazon |
