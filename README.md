@@ -14,8 +14,10 @@ My Hackboard has a rotary encoder for volume control, 3 keys for macros/inputs. 
 ![C1](./PCB/PHOTOS/c1.png)
 
 ## BOM
-| Name | Purpose | Quantity | Total Cost (INR) | Link | Distributor |
-|------|--------|----------|------------------|------|-------------|
-| Hot-swappable Mechanical Keyboard Switches | keys | 4 | 4.88 | [Link](#) | Amazon |
-| 3D Printed Case | structure | 1 | 3.00 | - | Printing Legion |
-| PCB | circuit | 1 | 5.00 | - | JLCPCB |
+| Name | Purpose | Quantity | Total Cost (USD) | Link | Distributor |
+|------|--------|----------|------------------|------|------------|
+| Rotary Encoder | Dial input | 1 | 1.03 | [Link] | Robocraze |
+| RP2040 | Microcontroller | 1 | 1.39 | [Link] | — |
+| Hot-Swappable Mechanical Keyboard Switches | Keys | 1 | — | [Link] | — |
+| Keycaps (Round Domes) | Keys | 1 | — | [Link] | — |
+| PCB | Circuit board | 1 | 3.94 | — | JLCPCB |
