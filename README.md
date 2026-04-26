@@ -19,7 +19,7 @@ My Hackboard has a rotary encoder for volume control, 3 keys for macros/inputs. 
 | Rotary Encoder | Dial input | 1 |0 | [Buy](https://robu.in/product/rotary-encoder-module/) | Robocraze |
 | RP2040 | Microcontroller | 1 | 6.38 | [Buy](https://robocraze.com/products/seeed-studio-xiao-rp2040-development-board?variant=47742255562976&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&campaignid=23145906364&adgroupid=182236965810&keyword=&device=c&gad_source=1&gad_campaignid=23145906364&gbraid=0AAAAADgHQvYlPzGMG3OcYMtb-BlPsfzhf&gclid=Cj0KCQjw77bPBhC_ARIsAGAjjV_IhuaGoKQTdTU_7luZl5Y1Wit55HdLdD95t0fOEzUk7gfg4P0fwLcaAqJXEALw_wcB) | Robocraze |
 | Hot-Swappable Mechanical Keyboard Switches | Keys | 1 | 9.18 | [Buy](https://stackskb.com/store/click-inc-of-linear-switch-pack-of-10/) | Stacks |
-| 3d printed comps | Keys | 1 | 4| [Buy]() | printing legion|
+| 3d printed comps | structure | 1 | 4| [Buy]() | printing legion|
 | PCB | Circuit board | 1 | 9.94| [Buy](https://jlcpcb.com/) | JLCPCB |
 | USB Type-C to Type-C Cable (Zebronics) | Power & Data | 1 | 2.11 | [Buy](https://www.amazon.in/dp/B0FJ2LY2JN) | Amazon |
 | Keycaps | Keys | 1 | 1.06 | [Buy](https://stackskb.com/store/numpad-keycaps/) | Stacks |
