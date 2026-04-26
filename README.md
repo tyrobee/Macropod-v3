@@ -18,7 +18,7 @@ My Hackboard has a rotary encoder for volume control, 3 keys for macros/inputs. 
 |------|--------|----------|------------------|------|------------|
 | Rotary Encoder | Dial input | 1 |0 | [Buy](https://robu.in/product/rotary-encoder-module/) | Robocraze |
 | RP2040 | Microcontroller | 1 | 6.38 | [Buy](https://robu.in/product/raspberry-pi-rp2040-microcontroller/) | Robocraze |
-| Hot-Swappable Mechanical Keyboard Switches | Keys | 1 | 9.18 | [Buy](https://www.amazon.in/dp/B0CKH9WJ9Q) | Amazon |
+| Hot-Swappable Mechanical Keyboard Switches | Keys | 1 | 9.18 | [Buy](https://www.amazon.in/Hot-Swappable-Mechanical-Keyboard-Switches-Durability/dp/B0DK1F19YD/ref=sr_1_3?crid=3HNGXFC77PJ99&dib=eyJ2IjoiMSJ9.tfo8ouLvpPQTdKKKsRX2EDglEvz82ErffTzny9o92mJTrr58zcaN__RhRx5XBnp3szi9cI1c4PmsWIogx2fP8SBc0-SSzcPdF2YtFQ2zo25Lx4Kjlt2x4q8MIjOZYepZso1MClqMkSUwiqWgMob8k5nMbcqf0rumt_9KoFYbTqF9RkO_8kXbbMSp-_mK69L1LnkDQ_2OBm01GE8Z4vzYwiDiNigQ8DanNf-hgcddZi8.0B2SdsejfPWKXci2Q0j7Yk2KA6RVy10N3cj41HMa-XI&dib_tag=se&keywords=linear+keyboard+switches&qid=1776534111&sprefix=linear+key%2Caps%2C450&sr=8-3) | Amazon |
 | 3d printed comps | Keys | 1 | 4| [Buy](https://www.amazon.in/dp/B0CJG7PZ79) | Amazon |
 | PCB | Circuit board | 1 | 9.94| [Order](https://jlcpcb.com/) | JLCPCB |
 | USB Type-C to Type-C Cable (Zebronics) | Power & Data | 1 | 2.11 | [Buy](https://www.amazon.in/dp/B0FJ2LY2JN) | Amazon |
